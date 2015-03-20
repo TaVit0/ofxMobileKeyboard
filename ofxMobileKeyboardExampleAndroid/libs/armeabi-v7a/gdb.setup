@@ -1,0 +1,6 @@
+set solib-search-path /home/tavit0/Escritorio/OF/of_v0.8.4_android/examples/android/ofxMobileKeyboardExampleAndroid/obj/local/armeabi-v7a:/home/tavit0/Escritorio/OF/of_v0.8.4_android/examples/android/ofxMobileKeyboardExampleAndroid/libs/armeabi-v7a
+directory /home/tavit0/Escritorio/OF/ndk/platforms/android-17/arch-arm/usr/include
+directory /home/tavit0/Escritorio/OF/of_v0.8.4_android/examples/android/ofxMobileKeyboardExampleAndroid/src
+directory /home/tavit0/Escritorio/OF/ndk/sources/cxx-stl/system
+directory /home/tavit0/Escritorio/OF/of_v0.8.4_android/examples/android/ofxMobileKeyboardExampleAndroid/libs/armeabi-v7a
+
