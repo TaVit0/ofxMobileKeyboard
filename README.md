@@ -18,7 +18,7 @@ Installation
 
 Android:  
 Copy ofxMobileKeyboard to your `openFrameworks/addons/` folder.  
-Copy ofxMobileKeyboardExampleAndroid to your Android workspace.  
+Copy ofxMobileKeyboardExampleAndroid to your OFAndroid workspace.  
 
 iOS:  
 Copy ofxMobileKeyboard to your `openFrameworks/addons/` folder.  
